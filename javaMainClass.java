@@ -14,6 +14,12 @@ public  class javaMainClass {
         javaMainClass obj=new javaMainClass();
         int result=obj.addition(10,15);
         System.out.println("Result:"+result);
+        
+        
+        //Vehicle class object
+        
+        Vehicle vehicle=new Vehicle();
+        vehicle.vehicleMethod();
     }
     
     
