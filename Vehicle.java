@@ -12,12 +12,8 @@ public class Vehicle
    //public method
     public void vehicleMethod()
    {
-    System.out.println("inside vehicle class");
+    System.out.println("call vehicleMethod() of Vehicle class");
    }
 
- //destructor
-  ~Vehicle()
-  {
-    System.out.println("inside vehicle destructor method");
-  }
+ 
 }

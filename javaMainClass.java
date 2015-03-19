@@ -17,9 +17,21 @@ public  class javaMainClass {
         
         
         //Vehicle class object
-        
+        System.out.println("-----------Vehicle object----------");
         Vehicle vehicle=new Vehicle();
         vehicle.vehicleMethod();
+        
+        
+        //FourWheller class object
+        System.out.println("------------FourWheeler object-----------");
+        FourWheeler fourWheeler=new FourWheeler();
+        fourWheeler.vehicleMethod();
+        
+        
+        //Benz class object
+        System.out.println("------------Benz object-----------");
+        Benz benz=new Benz();
+        benz.vehicleMethod();
     }
     
     
