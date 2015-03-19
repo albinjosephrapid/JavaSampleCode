@@ -1,3 +1,7 @@
+/*-------------------------------------------------------------
+ Java Class with main method
+ -------------------------------------------------------------*/
+
 public  class javaMainClass {
 
     public static void main(String[] args) 
