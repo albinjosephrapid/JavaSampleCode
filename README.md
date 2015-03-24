@@ -1,5 +1,5 @@
 # JavaSampleCode
-Java sample code for beginners
+Java sample code for beginners tutorial
 
 javaMainClass
 Vehicle
